@@ -1,0 +1,38 @@
+Enter a word: ship
+Enter the filename containing the list of words: words_alpha.txt
+Anagrams found for the word 'ship':
+1. hips
+2. phis
+3. pish
+4. ship
+Enter a word: peter
+Enter the filename containing the list of words: words_alpha.txt
+Anagrams found for the word 'peter':
+1. erept
+2. peert
+3. peter
+4. petre
+Enter a word: team
+Enter the filename containing the list of words: words_alpha.txt
+Anagrams found for the word 'team':
+1. mate
+2. meat
+3. meta
+4. tame
+5. team
+6. tema
+Enter a word: judge
+Enter the filename containing the list of words: words_alpha.txt
+Anagrams found for the word 'judge':
+1. judge
+Enter a word: kenyon
+Enter the filename containing the list of words: words_alpha.txt
+No anagrams found for the word 'kenyon' in the file.
+Enter a word: read
+Enter the filename containing the list of words: words_alpha.txt
+Anagrams found for the word 'read':
+1. ared
+2. daer
+3. dare
+4. dear
+5. read
