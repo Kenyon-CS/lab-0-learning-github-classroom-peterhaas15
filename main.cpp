@@ -1,4 +1,4 @@
-#Peter test!
+// Peter test!
 #include <algorithm>
 #include <fstream>
 #include <iostream>
@@ -42,7 +42,7 @@ vector<string> findAnagrams(const string &word, const string &filename) {
 
 int main() {
   string word, filename;
-
+  int count = 1;
   // Get the word from the user
   cout << "Enter a word: ";
   cin >> word;
@@ -61,7 +61,7 @@ int main() {
   } else {
     cout << "Anagrams found for the word '" << word << "':" << endl;
     for (const string &anagram : anagrams) {
-      cout << anagram << endl;
+      cout << count++ << ". " << anagram << endl;
     }
   }
 
